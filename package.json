@@ -27,7 +27,7 @@
   "devDependencies": {
     "@astrojs/mdx": "^1.1.0",
     "@astrojs/partytown": "^2.0.0",
-    "@astrojs/tailwind": "5.0.0",
+    "@astrojs/tailwind": "5.1.0",
     "@iconify-json/flat-color-icons": "^1.1.7",
     "@iconify-json/tabler": "^1.1.91",
     "@tailwindcss/typography": "^0.5.10",
